@@ -1,4 +1,5 @@
 ## Installation
+> :warning: **Assumes you have npm and git installed**:
 ```
 git clone https://github.com/kriegernathan1/matrixChanger.git
 cd matrixChanger
